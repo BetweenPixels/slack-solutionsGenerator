@@ -1,7 +1,7 @@
 {
-  "name": "awesomeslashcommand",
+  "name": "solutionsGenerator",
   "version": "1.0.0",
-  "description": "The awesomest slash command evar.",
+  "description": "This will generate a random answer.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-slash-command-app.git"
+    "url": "git+https://github.com/BetweenPixels/slack-solutionsGenerator.git"
   },
   "keywords": [
     "slack",
-    "slash command"
+    "solution"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Florian Filzmaier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-slash-command-app/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-slash-command-app#readme",
+  "homepage": "",
   "engines": {
     "node": "5.1.1"
   },
